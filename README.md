@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="CLAW_logo.png" alt="CLAW Logo" width="200" height="200">
+  <img src="CLAW_logo.png" alt="CLAW Logo" width="1000" height="1000">
 </div>
 
 # CLAW: Meta-Cognitive Neuro-Symbolic Planning Framework
